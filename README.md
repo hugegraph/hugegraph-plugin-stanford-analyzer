@@ -5,3 +5,7 @@ HugeGraph Stanford Analyzer is a text analyzer that can be loaded as a plugin. T
 ## License
 
 HugeGraph Stanford Analyzer is licensed under Apache 2.0 License.
+
+## Usage
+
+For detailed usage, please refer to the [custom plugin](https://hugegraph.github.io/hugegraph-doc/guides/custom-plugin.html) page of the hugegraph homepage.
